@@ -1,0 +1,15 @@
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar9\DZ64\bin\Debug\net6.0\DZ64.exe
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar9\DZ64\bin\Debug\net6.0\DZ64.deps.json
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar9\DZ64\bin\Debug\net6.0\DZ64.runtimeconfig.json
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar9\DZ64\bin\Debug\net6.0\DZ64.dll
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar9\DZ64\bin\Debug\net6.0\DZ64.pdb
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar9\DZ64\obj\Debug\net6.0\DZ64.csproj.AssemblyReference.cache
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar9\DZ64\obj\Debug\net6.0\DZ64.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar9\DZ64\obj\Debug\net6.0\DZ64.AssemblyInfoInputs.cache
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar9\DZ64\obj\Debug\net6.0\DZ64.AssemblyInfo.cs
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar9\DZ64\obj\Debug\net6.0\DZ64.csproj.CoreCompileInputs.cache
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar9\DZ64\obj\Debug\net6.0\DZ64.dll
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar9\DZ64\obj\Debug\net6.0\refint\DZ64.dll
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar9\DZ64\obj\Debug\net6.0\DZ64.pdb
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar9\DZ64\obj\Debug\net6.0\DZ64.genruntimeconfig.cache
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar9\DZ64\obj\Debug\net6.0\ref\DZ64.dll
